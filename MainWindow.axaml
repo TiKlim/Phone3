@@ -1,0 +1,419 @@
+<Window xmlns="https://github.com/avaloniaui"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d" d:DesignWidth="800" d:DesignHeight="450"
+        x:Class="Phone3.MainWindow"
+        Title="Phone3"
+		MaxWidth="1920"
+		MinWidth="1920"
+		MaxHeight="1080"
+		MinHeight="1080">	
+	<StackPanel Orientation="Horizontal">
+		<StackPanel Orientation="Horizontal">
+			<TextBlock Margin="0,200,0,0" FontSize="20" FontWeight="DemiBold" x:Name="message">
+				
+			</TextBlock>
+			</StackPanel>
+		<StackPanel
+			Margin="300,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox  Name="a1" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a2" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a3" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a4" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a5" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a6" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a7" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  Name="a8" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a9" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a10" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a11" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a12" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a13" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a14" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  Name="a15" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a16" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a17" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a18" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a19" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a20" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a21" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  Name="a22" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a23" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a24" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a25" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a26" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a27" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a28" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="20,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="20,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="20,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>			
+		</StackPanel>
+		<StackPanel
+			Margin="20,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="20,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="20,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="20,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="20,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+		<StackPanel
+			Margin="20,300,0,0"
+			Orientation="Horizontal">
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+			<StackPanel Background="White">
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+			</StackPanel>
+		</StackPanel>
+	</StackPanel>
+</Window>
