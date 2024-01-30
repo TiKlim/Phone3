@@ -11,13 +11,21 @@
 		MinHeight="1080">	
 	<StackPanel Orientation="Horizontal">
 		<StackPanel Orientation="Horizontal">
-			<TextBlock Margin="0,200,0,0" FontSize="20" FontWeight="DemiBold" x:Name="message">
-				
+			<TextBlock
+				Margin="0,200,0,0" 
+				FontSize="20" 
+				FontWeight="DemiBold" 
+				Name="message">				
 			</TextBlock>
 			</StackPanel>
 		<StackPanel
 			Margin="300,300,0,0"
 			Orientation="Horizontal">
+			<Button Name="Butoon" Margin="0,290,-80,400" Width="150" Height="50">
+				<TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Left" Foreground="AliceBlue">
+					Ввод
+					</TextBlock>
+			</Button>
 			<StackPanel Background="White">
 				<CheckBox  Name="a1" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a2" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
@@ -59,13 +67,13 @@
 			Margin="20,300,0,0"
 			Orientation="Horizontal">
 			<StackPanel Background="White">
-				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
-				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
-				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
-				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
-				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
-				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
-				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a29" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a30" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a31" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a32" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a33" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a34" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a35" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
 				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>

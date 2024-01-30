@@ -1,5 +1,6 @@
 using Avalonia.Controls;
 using Avalonia.Interactivity;
+using System.Net.Http.Headers;
 
 namespace Phone3
 {
@@ -8,21 +9,28 @@ namespace Phone3
         public MainWindow()
         {
             InitializeComponent();
-            a1.Click += ClickHandler;
+
+            Butoon.Click += Butoon_Click;
+
+       
         }
-        private void ClickHandler(object sender, RoutedEventArgs args)
+
+        private void Butoon_Click(object? sender, RoutedEventArgs e)
         {
-            string nom1 = "1";
-            string nom2 = "2";
-            string nom3 = "3";
-            string nom4 = "4";
-            string nom5 = "5";
-            string nom6 = "6";
-            string nom7 = "7";
-            string nom8 = "8";
-            string nom9 = "9";
-            string nom10 = "0";
-            message.Text = nom1;
+            if (a9.IsChecked == true && a15.IsChecked == true && a16.IsChecked == true && a17.IsChecked == true && a18.IsChecked == true && a19.IsChecked == true && a20.IsChecked == true && a21.IsChecked == true)
+            {
+                message.Text = "1";
+            }
+            else if (a30.IsChecked == true && a31.IsChecked == true && a34.IsChecked == true && a35.IsChecked == true && a18.IsChecked == true && a19.IsChecked == true && a20.IsChecked == true && a21.IsChecked == true)
+            {
+                message.Text = "1";
+            }
         }
+
+        /*private void ClickHandler1(object sender, RoutedEventArgs args)
+        {
+            string nom1 = "1";           
+            message.Text = nom1;
+        }*/
     }
 }
