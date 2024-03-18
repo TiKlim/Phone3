@@ -8,24 +8,13 @@
 		MaxWidth="1920"
 		MinWidth="1920"
 		MaxHeight="1080"
-		MinHeight="1080">	
+		MinHeight="1080">
+	
 	<StackPanel Orientation="Horizontal">
-		<StackPanel Orientation="Horizontal">
-			<TextBlock
-				Margin="0,200,0,0" 
-				FontSize="20" 
-				FontWeight="DemiBold" 
-				Name="message">				
-			</TextBlock>
-			</StackPanel>
+		
 		<StackPanel
 			Margin="300,300,0,0"
 			Orientation="Horizontal">
-			<Button Name="Butoon" Margin="0,290,-80,400" Width="150" Height="50">
-				<TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Left" Foreground="AliceBlue">
-					Ввод
-					</TextBlock>
-			</Button>
 			<StackPanel Background="White">
 				<CheckBox  Name="a1" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a2" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
@@ -273,155 +262,166 @@
 				<CheckBox  Name="a172" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a173" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a174" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
-				<CheckBox  HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a175" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
-				<CheckBox  Name="a175" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a176" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a177" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a178" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a179" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a180" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a181" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a182" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
-				<CheckBox  Name="a182" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a183" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a184" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a185" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a186" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a187" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a188" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a189" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
-				<CheckBox  Name="a189" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a190" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a191" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a192" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a193" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a194" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a195" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a196" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 		</StackPanel>
 		<StackPanel
 			Margin="20,300,0,0"
 			Orientation="Horizontal">
 			<StackPanel Background="White">
-				<CheckBox  Name="a196" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a197" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a198" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a199" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a200" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a201" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a202" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a203" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
-				<CheckBox  Name="a203" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a204" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a205" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a206" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a207" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a208" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a209" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a210" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
-				<CheckBox  Name="a210" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a211" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a212" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a213" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a214" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a215" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a216" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a217" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
-				<CheckBox  Name="a217" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a218" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a219" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a220" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a221" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a222" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a223" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a224" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 		</StackPanel>
 		<StackPanel
 			Margin="20,300,0,0"
 			Orientation="Horizontal">
 			<StackPanel Background="White">
-				<CheckBox  Name="a224" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a225" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a226" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a227" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a228" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a229" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a230" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a231" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
-				<CheckBox  Name="a231" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a232" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a233" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a234" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a235" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a236" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a237" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a238" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
-				<CheckBox  Name="a238" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a239" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a240" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a241" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a242" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a243" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a244" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a245" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
-				<CheckBox  Name="a245" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a246" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a247" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a248" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a249" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a250" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a251" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a252" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 		</StackPanel>
 		<StackPanel
 			Margin="20,300,0,0"
 			Orientation="Horizontal">
 			<StackPanel Background="White">
-				<CheckBox  Name="a252" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a253" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a254" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a255" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a256" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a257" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a258" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a259" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
-				<CheckBox  Name="a259" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a260" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a261" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a262" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a263" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a264" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a265" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a266" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
-				<CheckBox  Name="a266" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a267" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a268" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a269" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a270" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a271" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a272" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a273" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 			<StackPanel Background="White">
-				<CheckBox  Name="a273" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a274" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a275" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a276" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a277" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a278" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 				<CheckBox  Name="a279" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
+				<CheckBox  Name="a280" HorizontalAlignment="Center" VerticalAlignment="Center"></CheckBox>
 			</StackPanel>
 		</StackPanel>
+		<TextBlock
+			Margin="0,200,0,0" 
+			FontSize="20" 
+			FontWeight="DemiBold" 
+			Name="message">				
+		</TextBlock>
+		<Button Name="Butoon" Margin="0,490,-80,400" Width="150" Height="50">
+			<TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Left" Foreground="AliceBlue">
+				Ввод
+			</TextBlock>
+		</Button>
 	</StackPanel>
 </Window>
