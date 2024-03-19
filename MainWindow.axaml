@@ -413,15 +413,38 @@
 			</StackPanel>
 		</StackPanel>
 		<TextBlock
-			Margin="0,200,0,0" 
-			FontSize="20" 
+			Margin="-840,100,0,300" 
+			FontSize="50" 
 			FontWeight="DemiBold" 
-			Name="message">				
+			VerticalAlignment="Bottom"
+			HorizontalAlignment="Center"
+			Name="message">		
 		</TextBlock>
 		<Button Name="Butoon" Margin="0,490,-80,400" Width="150" Height="50">
-			<TextBlock VerticalAlignment="Bottom" HorizontalAlignment="Left" Foreground="AliceBlue">
+			<TextBlock FontSize="20" VerticalAlignment="Center" HorizontalAlignment="Right" Foreground="AliceBlue">
 				Ввод
 			</TextBlock>
 		</Button>
+		<TextBlock
+			Margin="-825,100,0,400" 
+			FontSize="20" 
+			FontWeight="DemiBold" 
+			VerticalAlignment="Bottom"
+			HorizontalAlignment="Center"> Your phone number is				
+		</TextBlock>
+		<TextBlock
+			Margin="-1015,100,0,400" 
+			FontSize="40" 
+			FontWeight="DemiBold" 
+			VerticalAlignment="Stretch"
+			HorizontalAlignment="Center"> Our form is very sophisticated				
+		</TextBlock>
+		<TextBlock
+			Margin="-1009,170,200,600" 
+			FontSize="30" 
+			FontWeight="DemiBold" 
+			VerticalAlignment="Top"
+			HorizontalAlignment="Center"> Please draw your phone number, thanks. 				
+		</TextBlock>
 	</StackPanel>
 </Window>
